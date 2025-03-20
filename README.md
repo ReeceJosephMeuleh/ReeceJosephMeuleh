@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">I’m an ICT Application Development student at with a passion for creating innovative software solutions. My background in Java, Python, and full-stack development drives my interest in tackling real-world tech challenges, and I love exploring emerging technologies to continually expand my skillset to build great world shaking things.</h3>
+<h4 align="left">I’m an ICT Application Development student at with a passion for creating innovative software solutions. My background in Java, Python, and full-stack development drives my interest in tackling real-world tech challenges, and I love exploring emerging technologies to continually expand my skillset to build great world shaking things.</h4>
 
 ###
 
