@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I’m an ICT Application Development student at with a passion for creating innovative software solutions. My background in Java, Python, and full-stack development drives my interest in tackling real-world tech challenges, and I love exploring emerging technologies to continually expand my skillset to build great world shaking things.</p>
+<h3 align="left">I’m an ICT Application Development student at with a passion for creating innovative software solutions. My background in Java, Python, and full-stack development drives my interest in tackling real-world tech challenges, and I love exploring emerging technologies to continually expand my skillset to build great world shaking things.</h3>
 
 ###
 
@@ -52,7 +52,18 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <div align="center">
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReeceJosephMeuleh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReeceJosephMeuleh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
